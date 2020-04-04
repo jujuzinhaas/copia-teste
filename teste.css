@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+}
+
+.tela{
+    color: #d1a8e0;
+}
+.titulo{
+    color: #d1a8e0;
+}
+
+.links{
+    color: #d1a8e0;
+    margin: 9px;
+ 
+    
+}
+
+.img-fluid{
+    margin-top: -30px;
+    margin-left: 100px;
+}
+
+#mochila{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+#matriz{
+    margin-left: 35px;
+    margin-top: 50px;
+    border: #d1a8e0 solid 2px;
+}
+
+
+
+table {
+    border-collapse: collapse;
+  }
+  
+table, th, td {
+    border: 2px solid  #d1a8e0;
+  }
+#titulo{
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    margin-left: 65px;   
+    color: white;
+}
+
+.button{
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 300px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+}
+
+#cor{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.jscolor{
+    border: 0px solid #d1a8e0;
+}
+
